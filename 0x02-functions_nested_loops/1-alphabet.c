@@ -9,6 +9,7 @@
 void print_alphabet(void)
 {
 	int round = 0;
+	
 	char letter = 'a';
 
 	while (round < 10)
