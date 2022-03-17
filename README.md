@@ -1,1 +1,1 @@
-Learning Debugging with C
+Learning C Programming Language
