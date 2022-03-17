@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Learning C programming
+Learning Debugging with C
